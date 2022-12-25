@@ -1,3 +1,6 @@
 [submodule "analytical_projects"]
 	path = analytical_projects
 	url = https://github.com/daniil-er/analytical_projects
+[submodule "vendors"]
+	path = vendors
+	url = https://github.com/daniil-er/analytical_projects
