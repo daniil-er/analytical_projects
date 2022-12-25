@@ -1,0 +1,3 @@
+[submodule "analytical_projects"]
+	path = analytical_projects
+	url = https://github.com/daniil-er/analytical_projects
